@@ -1,5 +1,6 @@
 ---
-title:  Privacy Policy for Privacy LBC Checker Extension
+title: "Privacy Policy for Privacy LBC Checker Extension"
+date: 2025-03-20
 ---
 
 # Privacy Policy for Privacy LBC Checker Extension
